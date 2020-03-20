@@ -1,0 +1,9 @@
+[
+{"napis": "kobylamamalybok", "wynik":"TAK"},
+{"napis": "abc", "wynik":"NIE"},
+{"napis": "aaa", "wynik":"TAK"},
+{"napis": "abba", "wynik":"TAK"},
+{"napis": "121", "wynik":"TAK"},
+{"napis": "1221", "wynik":"TAK"},
+{"napis": "aaaab", "wynik":"NIE"},
+]
